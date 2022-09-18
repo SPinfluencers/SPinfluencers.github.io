@@ -9,6 +9,7 @@ import Blog from "./component/Blog/Blog"
 import Contact from "./component/Contact/Contact"
 import Footer from "./component/Footer"
 import "./App.css"
+import Github from "./component/Github/Github"
 
 const App = () => {
   return (
@@ -20,8 +21,10 @@ const App = () => {
       <Resume />
       {/* <Testimonial /> */}
       {/* <Blog /> */}
+      <Github />
       <Contact />
       <Footer />
+
     </>
   )
 }
