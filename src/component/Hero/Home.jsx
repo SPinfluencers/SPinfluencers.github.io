@@ -54,7 +54,7 @@ const Home = () => {
                   </button>
                   <button className='btn_shadow'>
                     <i class='fab fa-linkedin-in'><a target="_blank" href="https://twitter.com/sagarpawar1493"><img src={twitter} alt="twitter" /></a></i>
-                  </button>
+                  </button> 
                 </div>
               </div>
               <div className='col_1'>
