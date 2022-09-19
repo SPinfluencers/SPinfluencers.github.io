@@ -7,7 +7,7 @@ const Github = () => {
       <h4 style={{textAlign:'center'}}>GITHUB</h4>
       <p style={{textAlign:'center', fontSize: '50px', fontWeight: "bold"}}>Github <span style={{color:'#ff014f'}}>Calendar</span></p>
       <br />
-      <div >
+      <div style={{marginLeft:'200px'}}>
       <GitHubCalendar 
       username='SPinfluencers'
       blockSize={20}
